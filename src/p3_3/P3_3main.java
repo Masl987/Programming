@@ -1,0 +1,16 @@
+package p3_3;
+
+public class P3_3main {
+public static void main(String[] args) {
+	int a=6;
+	
+	if(a %2 == 0) {
+	System.out.println("Zahl ist gerade");
+	}
+	
+	if (a%2 == 1) {
+	System.out.println("Zahl ist ungerade");
+	}
+
+}
+}
