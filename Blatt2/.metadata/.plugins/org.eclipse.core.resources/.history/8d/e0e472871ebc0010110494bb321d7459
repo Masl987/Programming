@@ -1,0 +1,15 @@
+package p2;
+
+public class P2_main {
+public static void main(String[] args) {
+	int a = 1;
+	int b = 1;
+	int c = 1;
+	int d = 0;
+	
+	if (a==b) {
+		d++;
+	}
+	
+}
+}
